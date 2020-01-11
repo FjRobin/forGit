@@ -2,5 +2,9 @@ This is 01-01-2020
 
 This is 02-01-2020
 
+<<<<<<< HEAD
 
 Kire ki obostha
+=======
+hi from linux
+>>>>>>> master
